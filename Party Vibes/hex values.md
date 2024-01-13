@@ -1,0 +1,71 @@
+# MALIBU PINK
+
+    #FE7769
+    #FE6EBC
+    #F967FE
+    #388CFE
+    #3848FE
+
+# CANCUN
+
+    #FE6287
+    #FE365F
+    #FE4707
+    #FE7915
+    #FEC135
+
+## RIO
+
+    #A34FFE
+    #FE4E83
+    #FE6B83
+    #FE9751
+    #FEDA4F
+
+## CHINATOWN
+
+    #FE2729
+    #FE2E3F
+    #FE4048
+    #FE7662
+    #FE9B20
+
+## IBIZA
+
+    #FE7D34
+    #FE9138
+    #FEAD45
+    #FED44A
+    #FEEC67
+
+## OSAKA
+
+    #FE83B6
+    #FE3D88
+    #FE5D5D
+    #FE7413
+    #FEBB43
+
+## TOKYO
+
+    #5600FE
+    #388EFE
+    #A612FE
+    #FE2775
+    #FEA022
+
+## MOTOWN
+
+    #3800FE
+    #3A3DFE
+    #388BFE
+    #38A7FE
+    #37E6FE
+
+## FAIRFAX
+
+    #38C3FE
+    #70B9FE
+    #FE9793
+    #FE584E
+    #FE2726
