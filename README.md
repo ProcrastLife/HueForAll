@@ -36,3 +36,4 @@ This project is dedicated to replicating the official palettes found in the Phil
 **WLED:** Download up to **ten** *.json palettes and name them palette[0-9].json. Follow these instructions from WLED:
 
 "it can be uploaded to the controller using the /edit page (http://[controller-ip]/edit). The controller must be rebooted (/win&RB) before the newly uploaded palettes will be available. After reboot, the custom palette(s) will be named ~ Custom [0-9] ~ in the Palettes section of the user interface." - [WLED Palettes Documentation](https://kno.wled.ge/features/palettes/#custom-palettes)
+# Hue-Palettes
